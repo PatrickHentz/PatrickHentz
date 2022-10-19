@@ -4,7 +4,7 @@ Hi 👋 My name is Patrick Hentz II
 CM/DevOps Engineer
 ------------------
 
-Skills: 1. Excellent Communication Skills 2. Problem Solving | Independent Thinking 3. Configuration Management | SDLC Planning, Lean, Agile, CMMI, ITIL 4. DevOps Engineering | SDLC Automation, CI/CD, Jira, GitHub 5. Cybersecurity Analysis | DevSecOps
+Skills: Excellent Communication Skills | Problem Solving | Independent Thinking | Configuration Management | SDLC Planning, Lean, Agile, CMMI, ITIL |DevOps Engineering | SDLC Automation, CI/CD, Jira, GitHub | Cybersecurity Analysis | DevSecOps
 
 * 🌍  I'm based in Virgina
 * 🧠  I'm learning Python

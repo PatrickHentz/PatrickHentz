@@ -1,4 +1,4 @@
-Hi 👋 My name is Patrick Hentz II
+Hi 👋 My name is Patrick Hentz
 =================================
 
 CM/DevOps Engineer
